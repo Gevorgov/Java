@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx-swt.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.base.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.controls.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.fxml.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.graphics.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.media.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.swing.jar",
+        "/Users/gevorgov/Desktop/Study/javafx-sdk-19/lib/javafx.web.jar"
+    ]
+}
